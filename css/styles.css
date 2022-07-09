@@ -805,6 +805,7 @@ transition:
     border: 1px solid rgba(33, 33, 33, 0.2);
     border-radius: 4px;
     color: var(--focus-hover-color);
+    color: var(--primary-color);
 }
 
 .contact-form-input:focus,
